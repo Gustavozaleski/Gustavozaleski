@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, my name is Gustavo atualy i'm a studant of engineer software,atualy a work on projects on C, but now a start study web developer 👋
 
 <!--
 **Gustavozaleski/Gustavozaleski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
