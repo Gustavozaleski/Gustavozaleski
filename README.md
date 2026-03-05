@@ -31,9 +31,6 @@ I’m passionate about technology and continuously improving my skills by buildi
 </p>
 
 ---
-
-## Languages and Tools
-
 ## Languages and Tools
 
 <p align="center">
