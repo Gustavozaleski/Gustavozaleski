@@ -54,15 +54,11 @@ I’m passionate about technology and continuously improving my skills by buildi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
 
----
-## GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavozaleski&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavozaleski&layout=compact&theme=tokyonight"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile...;See+you+in+the+next+commit!;Closing+terminal...;Goodbye+👋" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0051ff&height=120&section=footer"/>
 </p>
