@@ -20,10 +20,6 @@ In addition, I am learning **Power BI** to develop strong skills in **data visua
 
 I’m passionate about technology and continuously improving my skills by building projects and learning new tools in the **data and software development ecosystem**.
 
----
-
-## Connect with me
-
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-ramos-zaleski-806b07255/)
